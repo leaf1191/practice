@@ -16,3 +16,4 @@ rootProject.name = "practice"
 include ':app'
 include ':section1'
 include ':section2'
+include ':section3'
